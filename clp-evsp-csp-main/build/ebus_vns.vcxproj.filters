@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Vaidehi\Desktop\Web Dev BootCamp\ugcode\clp-evsp-csp-main\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Vaidehi\Desktop\Web Dev BootCamp\ugcode\clp-evsp-csp-main\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{55DF798E-D889-397C-B3DC-497E1948A113}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

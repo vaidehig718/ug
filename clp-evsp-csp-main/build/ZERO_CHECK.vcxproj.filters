@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Vaidehi\Desktop\Web Dev BootCamp\ugcode\clp-evsp-csp-main\build\CMakeFiles\8fa5e577397818575dc4cdf92472d41e\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{37C1AF22-B32C-38FF-8055-77901A35F458}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

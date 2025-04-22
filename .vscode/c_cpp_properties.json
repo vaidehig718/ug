@@ -1,0 +1,43 @@
+// {
+//   "configurations": [
+//     {
+//       "name": "windows-gcc-x64",
+//       "includePath": [
+//         "${workspaceFolder}/**"
+//       ],
+//       "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+//       "cStandard": "${default}",
+//       "cppStandard": "${default}",
+//       "intelliSenseMode": "windows-gcc-x64",
+//       "compilerArgs": [
+//         ""
+//       ]
+//     }
+//   ],
+//   "version": 4
+// }
+
+
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Program Files/IBM/ILOG/CPLEX_Studio2212/cplex/include",
+        "C:/Program Files/IBM/ILOG/CPLEX_Studio2212/concert/include",
+        "C:/Users/Vaidehi/Desktop/Web Dev BootCamp/ugcode/vcpkg/installed/x64-windows/include",
+        "C:/local/boost_1_84_0/boost_1_88_0" 
+      ],
+      "defines": [
+        "IL_STD"
+      ],
+      "compilerPath": "C:/msys64/ucrt64/bin/gcc.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
